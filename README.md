@@ -12,9 +12,9 @@ The script generates a random key (RandomNumberGenerator - required) 128 bits lo
 makes its move, calculates the HMAC (based on SHA2 or SHA3) from the move with the generated key and shows it to the user.
 
 After that, the user receives a "Menu":
-1 - Stone
-2 - Paper
-.....
+1 - Stone, 
+2 - Paper, 
+... , 
 0 - Exit.
 
 The user makes his choice (if the input is incorrect, the "Menu" is displayed again).

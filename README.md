@@ -1,5 +1,5 @@
 # Description
-Task #3 "Rock Paper Scissors" for the internship on .NET in Itransition.
+**Task #3 "Rock Paper Scissors" for the internship on .NET in Itransition.**
 
 The program is launched with an odd number >= 3 command line parameters 
 (if the arguments are incorrectly specified, an error message display
@@ -22,4 +22,7 @@ The user makes his choice (if the input is incorrect, the "Menu" is displayed ag
 The script shows who won, the turn of the computer and the original key.
 Thus, the user can check that the computer is playing fairly (did not change its move after the user's move).
 
-Performed by Serhii Butko.
+**To start the program** you need to clone the repository, go to the "Program" folder using the command line of your PC
+and then start the program by entering "Game arg1, arg2, ..., arg(2n+1)", where args are the moves in the game.
+
+>***Performed by Serhii Butko.***
